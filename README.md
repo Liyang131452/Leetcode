@@ -54,5 +54,44 @@
   </ul>
   <p>
     Given a roman numeral, convert it to an integer.
+  </p >
+</div>    
+
+### Leetcode_04 :Longest Common Prefix
+<div>
+  <p>
+    Write a function to find the longest common prefix string amongst an array of strings.
+  </p>
+  <p>
+    If there is no common prefix, return an empty string <code>""</code>.
   </p>
 </div>
+
+### Leetcode_05 :Valid Parentheses
+<div>
+  <p>
+    Given a string <code>s</code> containing just the characters <code>'('</code>, <code>')'</code>, <code>'{'</code>, <code>'}'</code>, <code>'['</code> and <code>']'</code>, determine if the input string is valid.
+  </p>
+  <p>
+    An input string is valid if:
+  </p>
+  <ol>
+    <li>Open brackets must be closed by the same type of brackets.</li>
+    <li>Open brackets must be closed in the correct order.</li>
+    <li>Every close bracket has a corresponding open bracket of the same type.</li>
+  </ol>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
